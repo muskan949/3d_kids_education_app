@@ -1,0 +1,110 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl G17SPBEH
+Ka  0.0 0.0 0.0
+Kd  0.7 0.7 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+map_Kd G17SBEEH.jpg
+map_d G17SBEMS.jpg
+#
+newmtl G17SPGHL
+Ka  0.1 0.1 0.1
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+map_Kd G17SHELC.jpg
+map_d G17SHENG.jpg
+#
+newmtl G17SPNUM
+Ka  0.0 0.0 0.0
+Kd  0.7 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+map_Kd G17SNUMR.jpg
+map_d G17SNUMR.jpg
+#
+newmtl G17SCRMD
+Ka  0.1 0.1 0.1
+Kd  0.2 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl G17SPRED
+Ka  0.0 0.0 0.0
+Kd  0.7 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub G17SALAN (2) to come 
+#
+newmtl Material__45
+Ka  0.0 0.0 0.0
+Kd  0.7 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+bump G17SLTRB.jpg
+#
+newmtl Material__46
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub G17SALAN done 
+#
+newmtl G17SGLAS
+Ka  0.0 0.0 0.0
+Kd  0.1 0.2 0.0
+Ks  1.0 1.0 1.0
+d  0.5
+Ns  10.0
+illum 2
+#
+newmtl G17SINHL
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl G17SNEUM
+Ka  0.0 0.0 0.0
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl G17SFRED
+Ka  0.0 0.0 0.0
+Kd  0.7 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl G17SALMN
+Ka  0.1 0.1 0.1
+Kd  0.3 0.3 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  5.9
+illum 2
+#
+# EOF

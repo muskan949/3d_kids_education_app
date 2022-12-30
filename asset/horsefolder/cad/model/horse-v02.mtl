@@ -1,0 +1,18 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: www.cadnav.com
+
+newmtl Horse
+	Ns 37.9908
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0200 0.0200 0.0200
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Horse_Color.jpg
+	map_Kd Horse_Color.jpg
+	map_Ks Horse_Specular.jpg
+	map_bump Horse_Normal_jpg_Normal_Bump.tga
